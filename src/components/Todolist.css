@@ -1,0 +1,9 @@
+.task-container {
+    width: 40vw;
+    height: 40vh;
+    background-color: chartreuse;
+    margin: auto;
+    border: 1px solid red;
+    font-size: 40px;
+}
+
